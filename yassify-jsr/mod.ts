@@ -5,5 +5,5 @@
  * @returns a string of text with emoji appended
  */
 export function yassifyJSR(str: string): string {
-  return `${str} 💅✨👑`;
+  return `${str} from JSR 💅✨👑`;
 }
