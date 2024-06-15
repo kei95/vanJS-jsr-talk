@@ -1,0 +1,5 @@
+{
+  "name": "@kei95/yassify-jsr",
+  "version": "1.0.0",
+  "exports": "./mod.ts"
+}
